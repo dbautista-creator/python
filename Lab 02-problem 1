@@ -1,0 +1,41 @@
+hotdog_price= 2.5
+
+number_of_hotdogs=3
+
+total_price=3*2.5
+print("hotdog price:",hotdog_price)
+
+
+print("number of hotdogs",number_of_hotdogs)
+
+print("The total price is", total_price)
+soda_price= 1.25
+
+number_of_sodas= 3
+
+total_price=3*1.25
+print("soda price:",soda_price)
+
+
+
+print("number of sodas",number_of_sodas)
+
+print("The total price is", total_price)
+
+chip_price= 1.5
+
+number_of_chips=3
+
+total_price=3*1.5
+print("chip price",chip_price)
+
+print("number of chips",number_of_chips)
+
+print("The total price is", total_price)
+
+amount_needed=total_price+total_price+total_price
+print("amount needed",amount_needed)
+
+
+
+ 
